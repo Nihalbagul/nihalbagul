@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Bagul</h1>
-<h3 align="center">A passionate full stack developer(MERN,NEXT.Js,App and DevOps) from India</h3>
+<h3 align="center">A passionate full stack developer(MERN,NEXT.Js,App{Flutter and React Native} and DevOps) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalbagul&label=Profile%20views&color=0e75b6&style=flat" alt="nihalbagul" /> </p>
 
