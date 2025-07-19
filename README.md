@@ -26,7 +26,7 @@ const nihalBagul = {
     name: "Nihal Bagul",
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    role: "Full Stack Developer",
+    role: "Software Developer",
     education: "Computer Engineering Graduate",
     experience: "1+ Years",
     specialization: ["MERN Stack", "Next.js", "Flutter", "DevOps"],
