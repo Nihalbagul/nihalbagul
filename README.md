@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Nihal+Bagul;Software+Developer+%F0%9F%92%BB;MERN+%7C+Next.js+%7C+Flutter+%7C+DevOps+%E2%9A%A1;Passionate+about+Clean+Code+%26+Innovation+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Nihal+Bagul;Software+Developer+%F0%9F%92%BB;MERN+%7C+Next.js+%7C+Flutter+%7C+DevOps+%E2%9A%A1;Passionate+about+Clean+Code+%26+Innovation+%F0%9F%9A%80)
 
 
   <h3>🌍 Building the future, one commit at a time | From 🇮🇳 India</h3>
