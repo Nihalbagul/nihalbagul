@@ -189,7 +189,7 @@ console.log("Welcome to my GitHub profile! 🚀");
   
   ### 🔥 Streak Statistics
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalbagul&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&sideLabels=FFFFFF&dates=FFFFFF"/>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalbagul" alt="nihalbagul streak stats" /></p>
   
 </div>
 
