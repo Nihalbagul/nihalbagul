@@ -27,7 +27,7 @@ const nihalBagul = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     role: "Software Developer",
-    education: "Computer Engineering Graduate",
+    education: "🎓 ICT Engineer | DAIICT/DAU Graduate",
     experience: "1+ Years",
     specialization: ["MERN Stack", "Next.js", "Flutter", "DevOps"],
     currentFocus: [
