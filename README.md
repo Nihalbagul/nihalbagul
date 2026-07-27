@@ -1,61 +1,59 @@
-# <div align="center">🚀 Welcome to My Digital Universe! 🌟</div>
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Nihal+Bagul;Software+Developer+%F0%9F%92%BB;MERN+%7C+Next.js+%7C+Flutter+%7C+DevOps+%E2%9A%A1;Passionate+about+Clean+Code+%26+Innovation+%F0%9F%9A%80)
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="0" height="0" />
 
-  <h3>🌍 Building the future, one commit at a time | From 🇮🇳 India</h3>
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nihalbagul.dev-FF6B6B?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white)](https://nihalbagul.dev)
-  [![Resume](https://img.shields.io/badge/📄_Resume-Download-4ECDC4?style=for-the-badge&labelColor=000000&logo=adobeacrobatreader&logoColor=white)](https://nihalbagul.dev/resume)
-  [![Profile Views](https://komarev.com/ghpvc/?username=nihalbagul&label=Profile%20Views&color=FF6B6B&style=for-the-badge)](https://github.com/nihalbagul)
-  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nihal%20Bagul&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%9A%94%EF%B8%8F%20Level%20Up%20One%20Commit%20At%20A%20Time&descAlignY=58&descSize=18)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9C%A8+Hi%2C+I'm+Nihal+Bagul;%E2%9A%94%EF%B8%8F+MERN+%7C+Next.js+%7C+Flutter+%7C+DevOps;%F0%9F%8C%B8+Turning+coffee+into+code+since+day+one)
+
+<h3>🌸 Building the future, one commit at a time | From 🇮🇳 India 🌸</h3>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nihalbagul.dev-FF69B4?style=for-the-badge&labelColor=1a1a2e&logo=vercel&logoColor=white)](https://nihalbagul.dev)
+[![Resume](https://img.shields.io/badge/📜_Scroll_of_Skills-Download-9D4EDD?style=for-the-badge&labelColor=1a1a2e&logo=adobeacrobatreader&logoColor=white)](https://nihalbagul.dev/resume)
+[![Profile Views](https://komarev.com/ghpvc/?username=nihalbagul&label=Adventurers%20Who%20Visited&color=FF69B4&style=for-the-badge)](https://github.com/nihalbagul)
+
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🎯 About Me 🎯
-  
+
+## ⚔️ Character Sheet ⚔️
+
 </div>
 
 ```typescript
 const nihalBagul = {
-    name: "Nihal Bagul",
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    role: "Software Developer",
-    education: "🎓 ICT Engineer | DAIICT/DAU Graduate",
-    experience: "1+ Years",
-    specialization: ["MERN Stack", "Next.js", "Flutter", "DevOps"],
-    currentFocus: [
-        "Building scalable web applications",
-        "Mobile app development with Flutter",
-        "Cloud architecture & DevOps",
-        "Open source contributions"
+    class: "Software Developer ⚔️",
+    guild: "🎓 ICT Engineer | DAIICT/DAU Graduate",
+    level: "1+ Years XP",
+    mainWeapons: ["MERN Stack", "Next.js", "Flutter", "DevOps"],
+    activeQuests: [
+        "Building scalable web applications 🏗️",
+        "Mobile app development with Flutter 📱",
+        "Cloud architecture & DevOps ☁️",
+        "Open source contributions 🌟"
     ],
-    passion: ["Clean Code", "Innovation", "Problem Solving", "Learning"],
-    hobbies: ["Coding", "Tech Blogging", "Photography", "Gaming"],
-    funFact: "I turn coffee ☕ into code 💻 and bugs into features 🐛➡️✨",
-    motto: "Code is poetry written in logic"
+    passiveSkills: ["Clean Code", "Innovation", "Problem Solving", "Learning"],
+    sidequests: ["Coding", "Tech Blogging", "Photography", "Gaming"],
+    specialAbility: "Turns coffee ☕ into code 💻 and bugs into features 🐛➡️✨",
+    catchphrase: "Code is poetry written in logic"
 };
 
-console.log("Welcome to my GitHub profile! 🚀");
+console.log("🌸 Welcome, traveler, to my corner of GitHub! 🌸");
 ```
 
 ---
 
 <div align="center">
-  
-  ## 🚀 Tech Stack Galaxy
-  
-  ![Tech Stack Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+DevOps;Always+Learning+New+Technologies!;Let's+Build+Something+Amazing!)
-  
+
+## 🔮 Elemental Powers (Tech Stack) 🔮
+
+![Tech Banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=600&color=9D4EDD&center=true&vCenter=true&width=650&lines=Frontend+%E2%9A%94%EF%B8%8F+Backend+%E2%9A%94%EF%B8%8F+Mobile+%E2%9A%94%EF%B8%8F+DevOps;Always+farming+new+skills!;Let's+forge+something+legendary!)
+
 </div>
 
-### 🎨 Frontend Universe
+### 🎨 Frontend — Aesthetic Arts
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -75,7 +73,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 </div>
 
-### 🔧 Backend Cosmos
+### 🔥 Backend — Forbidden Jutsu
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -94,25 +92,22 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 </div>
 
-### 🗄️ Database & Storage Dimension
+### 🗝️ Databases & Storage — Treasure Vaults
 <div align="center">
 
-**Databases:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Caching & Search:**
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Memcached](https://img.shields.io/badge/Memcached-00ADD8?style=for-the-badge&logo=memcached&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 </div>
 
-### 📱 Mobile Multiverse
+### 📱 Mobile — Summon Scrolls
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -124,7 +119,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 </div>
 
-### ☁️ Cloud & DevOps Orbit
+### ☁️ Cloud & DevOps — Sky Realm
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -142,7 +137,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 </div>
 
-### 🤖 AI/ML Space
+### 🧠 AI/ML — Sage Techniques
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -155,7 +150,7 @@ console.log("Welcome to my GitHub profile! 🚀");
 
 </div>
 
-### 🛠️ Tools & Environment
+### 🛠️ Tools & Environment — Inventory
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -168,117 +163,96 @@ console.log("Welcome to my GitHub profile! 🚀");
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Performance
-
 <div align="center">
-  
-  ### 📈 Contribution Statistics
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihalbagul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&custom_title=Nihal's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalbagul&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=400"/>
-  
-</div>
 
-<div align="center">
-  
-  ### 🔥 Streak Statistics
-  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalbagul" alt="nihalbagul streak stats" /></p>
-  
-</div>
+## 📊 Battle Stats 📊
 
-<div align="center">
-  
-  ### 📊 Weekly Development Breakdown
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihalbagul&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=FF69B4&icon_color=9D4EDD&text_color=FFFFFF&custom_title=Nihal's%20Power%20Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalbagul&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF69B4&text_color=FFFFFF&card_width=400"/>
+
+### 🔥 Training Streak 🔥
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalbagul&theme=radical&hide_border=true&background=1a1a2e&ring=FF69B4&fire=9D4EDD" alt="nihalbagul streak stats" />
+
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
-
 <div align="center">
-  
-  ### 🎖️ GitHub Trophies
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=nihalbagul&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues"/>
-  
-  ### 🏅 Coding Platform Achievements
-  
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/nihal_bagul)](https://www.codechef.com/users/nihal_bagul)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://www.leetcode.com/nihalbagul)](https://www.leetcode.com/nihalbagul)
-  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/nihalbagul98)](https://www.hackerrank.com/nihalbagul98)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/nihalbagul)](https://codeforces.com/profile/nihalbagul)
-  [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@nihalbagul98)](https://www.hackerearth.com/@nihalbagul98)
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c&link=https://auth.geeksforgeeks.org/user/nihalbagul98)](https://auth.geeksforgeeks.org/user/nihalbagul98)
-  
+
+## 🏆 Trophy Room 🏆
+
+<img src="https://github-profile-trophy.vercel.app/?username=nihalbagul&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues"/>
+
+### ⚔️ Rival Arenas (Coding Platforms)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nihal_bagul)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/nihalbagul)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nihalbagul98)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/nihalbagul)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@nihalbagul98)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/nihalbagul98)
+
 </div>
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
-  
-  [![Nihal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihalbagul&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F)](https://github.com/nihalbagul)
-  
+
+## 📈 Chronicle of Commits 📈
+
+[![Nihal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihalbagul&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=FF69B4&line=9D4EDD&point=FFFFFF&area=true&area_color=FF69B4)](https://github.com/nihalbagul)
+
+<picture>
+   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
 </div>
 
 ---
 
----
-
-## 🌟 Connect & Collaborate
-
 <div align="center">
-  
-  ### 💬 Let's Connect!
-  
-  [![Twitter Follow](https://img.shields.io/twitter/follow/bagul_nihal?color=1DA1F2&logo=twitter&style=for-the-badge&label=Follow%20@bagul_nihal)](https://twitter.com/bagul_nihal)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-bagul)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nihalbagul0812)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/nihalbagul-dev)
-  
-  ### 📝 Content & Blogs
-  
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nihalbagul)
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nihalbagul)
-  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nihalbagul)
-  
-  ### 🎨 Design Portfolios
-  
-  [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nihalbagul)
-  [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/nihal-bagul)
-  
-  ### 💻 Code Sandboxes
-  
-  [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@nihalbagul)
-  [![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.com/nihalbagul)
-  [![Repl.it](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@nihalbagul)
-  
-  ### 📊 Data Science
-  
-  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nihalbagul)
-  
-  ### 📧 Direct Contact
-  
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihalbagul@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nihalbagul)
-  
+
+## 🌸 Send a Raven (Connect) 🌸
+
+### 💬 Social Guild
+[![Twitter Follow](https://img.shields.io/twitter/follow/bagul_nihal?color=FF69B4&logo=twitter&style=for-the-badge&label=Follow%20@bagul_nihal)](https://twitter.com/bagul_nihal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-bagul)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nihalbagul0812)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/nihalbagul-dev)
+
+### 📜 Lore & Blogs
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nihalbagul)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nihalbagul)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nihalbagul)
+
+### 🎨 Art Studio
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nihalbagul)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/nihal-bagul)
+
+### 🧪 Sandbox Labs
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@nihalbagul)
+[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.com/nihalbagul)
+[![Repl.it](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@nihalbagul)
+
+### 📊 Data Dojo
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nihalbagul)
+
+### 📮 Direct Message
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihalbagul@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nihalbagul)
+
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Latest Scrolls (Blog Posts)
 
 <!-- BLOG-POST-LIST:START -->
 - 🔥 [Building Scalable Applications with MERN Stack](https://medium.com/@nihalbagul/building-scalable-mern-apps)
@@ -291,45 +265,25 @@ console.log("Welcome to my GitHub profile! 🚀");
 ---
 
 <div align="center">
-  
-  ### 💭 Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in)
-  
-  ---
-  
-  ### 🎵 Currently Listening To
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nihalbagul&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nihalbagul&redirect=true)
-  
-  ---
-  
-  ### 🐍 Contribution Snake
-  
-  <picture>
-     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-  
-  ---
-  
-  ### 📈 Profile Statistics
-  
-  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihalbagul&theme=tokyonight)
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nihalbagul&theme=tokyonight" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nihalbagul&theme=tokyonight" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nihalbagul&theme=tokyonight" width="32%" />
-  
-  ---
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=F8D866&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+collaborate+and+build+something+amazing!+%F0%9F%9A%80;Always+open+to+interesting+conversations+%F0%9F%92%AC;Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)
-  
-  **🚀 "Code is poetry written in logic"** ✨
-  
-  ---
-  
-  <img src="https://komarev.com/ghpvc/?username=nihalbagul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  ⭐️ From [nihalbagul](https://github.com/nihalbagul) | Made with 💜, lots of ☕, and passion for coding!
-  
+
+### 💭 Wisdom of the Sages
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in)
+
+---
+
+### 🎵 Background Soundtrack
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nihalbagul&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a2e&interchange=false&bar_color=FF69B4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nihalbagul&redirect=true)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+**🚀 "Code is poetry written in logic"** ✨
+
+<img src="https://komarev.com/ghpvc/?username=nihalbagul&label=Profile%20views&color=FF69B4&style=flat" alt="Profile Views" />
+
+⭐️ From [nihalbagul](https://github.com/nihalbagul) | Made with 💜, lots of ☕, and passion for coding!
+
 </div>
