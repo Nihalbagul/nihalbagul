@@ -2,7 +2,7 @@
 
 <img src="./9704-vr-illusion.gif" alt="Nihal Bagul Banner" width="100%" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=4000&pause=800&color=73DACA&center=true&vCenter=true&width=700&lines=Turning+coffee+%E2%98%95+into+scalable+apps;Building+for+web+%F0%9F%8C%90%2C+mobile+%F0%9F%93%B1+%26+cloud+%E2%98%81%EF%B8%8F;1%2B+years+of+experience+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Let%27s+build+something+amazing+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=4000&pause=800&color=73DACA&center=true&vCenter=true&width=700&lines=Turning+coffee+%E2%98%95+into+scalable+apps;Building+for+web+%F0%9F%8C%90%2C+mobile+%F0%9F%93%B1+%26+cloud+%E2%98%81%EF%B8%8F;2%2B+years+of+experience+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Let%27s+build+something+amazing+%F0%9F%9A%80)
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://nihalbagul.dev)
 [![Resume](https://img.shields.io/badge/-Resume-4ECDC4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nihalbagul.dev/resume)
