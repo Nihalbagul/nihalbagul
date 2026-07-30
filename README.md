@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nihal Bagul 👋
-
-**Software Developer · MERN · Next.js · Flutter · DevOps**
+<img src="./banner.png" alt="Nihal Bagul - Software Developer Banner" width="100%" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time;From+%F0%9F%87%AE%F0%9F%87%B3+India;Passionate+about+clean+code+%26+innovation)
 
@@ -81,6 +79,37 @@ const nihalBagul = {
 
 <br>
 
+## 📁 Featured Projects
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>💻 DevConnect</h3>
+        <p>A full-stack social network and portfolio builder for developers with real-time messaging, project sharing, and community threads.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
+        <a href="https://github.com/nihalbagul/devconnect"><b>🔗 Code Repo</b></a> | <a href="https://devconnect-demo.vercel.app"><b>⚡ Live Demo</b></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📱 TaskForge</h3>
+        <p>A collaborative productivity and task management app featuring offline synchronization, board views, and real-time push notifications.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+          <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
+        </p>
+        <a href="https://github.com/nihalbagul/taskforge"><b>🔗 Code Repo</b></a> | <a href="https://taskforge-demo.app"><b>⚡ Live Demo</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 ## 📊 GitHub stats
 
 <div align="center">
@@ -93,6 +122,10 @@ const nihalBagul = {
 <br><br>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/wakatime?username=nihalbagul&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalbagul&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -137,6 +170,35 @@ const nihalBagul = {
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nihalbagul)
 
 </div>
+
+<br>
+
+<!--START_SECTION:tictactoe-->
+<div align="center">
+
+<h3>🎮 Play Tic-Tac-Toe</h3>
+<h4>Your Turn (Play as X)</h4>
+<p>Click any empty square below to make a move!</p>
+<table style="border-collapse: collapse; text-align: center; font-size: 24px; font-weight: bold;">
+  <tr>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_0&body=Click+Submit+New+Issue+to+make+your+move+at+(0,0)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_1&body=Click+Submit+New+Issue+to+make+your+move+at+(0,1)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_2&body=Click+Submit+New+Issue+to+make+your+move+at+(0,2)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_0&body=Click+Submit+New+Issue+to+make+your+move+at+(1,0)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_1&body=Click+Submit+New+Issue+to+make+your+move+at+(1,1)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_2&body=Click+Submit+New+Issue+to+make+your+move+at+(1,2)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+  </tr>
+  <tr>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_2_0&body=Click+Submit+New+Issue+to+make+your+move+at+(2,0)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_2_1&body=Click+Submit+New+Issue+to+make+your+move+at+(2,1)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_2_2&body=Click+Submit+New+Issue+to+make+your+move+at+(2,2)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+  </tr>
+</table>
+
+</div>
+<!--END_SECTION:tictactoe-->
 
 <br>
 
