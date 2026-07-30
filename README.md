@@ -112,6 +112,13 @@ const nihalBagul = {
 
 <br>
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
 ## 🌟 Connect
 
 <div align="center">
@@ -130,7 +137,9 @@ const nihalBagul = {
 🐍 <b>Contribution snake</b>
 
 <picture>
-   <img src="https://raw.githubusercontent.com/nihalbagul/nihalbagul/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihalbagul/nihalbagul/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihalbagul/nihalbagul/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nihalbagul/nihalbagul/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 <br><br>
