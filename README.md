@@ -2,7 +2,7 @@
 
 <img src="./9704-vr-illusion.gif" alt="Nihal Bagul Banner" width="100%" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time;From+%F0%9F%87%AE%F0%9F%87%B3+India;Passionate+about+clean+code+%26+innovation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=800&color=BB9AF3&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I%27m+Nihal+Bagul;Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+Flutter+%7C+DevOps;Open+to+Opportunities+%F0%9F%92%BC)
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://nihalbagul.dev)
 [![Resume](https://img.shields.io/badge/-Resume-4ECDC4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nihalbagul.dev/resume)
