@@ -230,6 +230,6 @@ const nihalBagul = {
 
 <br><br>
 
-<img src="./9704-vr-illusion-copy.gif" alt="Nihal Bagul Footer Banner" width="100%" />
+<img src="./3993-waifu.png" alt="Nihal Bagul Footer Banner" width="100%" />
 
 </div>
