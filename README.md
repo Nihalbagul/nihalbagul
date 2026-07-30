@@ -22,8 +22,8 @@ const nihalBagul = {
     location: "India 🇮🇳",
     role: "Software Developer",
     education: "ICT Engineer — DAIICT/DAU",
-    experience: "1+ years",
-    specialization: ["MERN Stack", "Next.js", "Flutter", "DevOps"],
+    experience: "2+ years",
+    specialization: ["MERN Stack", "Next.js",  "DevOps"],
     currentFocus: [
         "Building scalable web applications",
         "Mobile development with Flutter",
