@@ -39,33 +39,9 @@
 
 ## 🎯 About me
 
-```http
-GET /api/v1/developer/nihalbagul  →  HTTP 200 OK
-Content-Type: application/json
-```
-
-```json
-{
-  "status":          "available_for_hire 🟢",
-  "name":            "Nihal Bagul",
-  "base":            "India 🇮🇳",
-  "role":            "Full Stack Developer",
-  "education":       "B.Tech ICT — DA-IICT / DAU 🎓",
-  "experience":      "2+ years shipping production apps",
-  "stack": {
-    "frontend":      ["React ⚛️", "Next.js", "TypeScript", "Tailwind CSS"],
-    "backend":       ["Node.js", "Express", "GraphQL", "Django"],
-    "mobile":        ["Flutter 📱", "React Native", "Dart"],
-    "cloud":         ["AWS ☁️", "Docker 🐳", "Vercel", "Firebase"],
-    "databases":     ["MongoDB", "PostgreSQL"]
-  },
-  "currentFocus":    ["Scalable web apps", "Flutter mobile dev", "Cloud & DevOps"],
-  "currentlyBuilding": "Something awesome 🚀",
-  "responseTime":    "< 24 hours ⚡",
-  "openToWork":      true,
-  "funFact":         "I turn coffee ☕ into code 💻 and bugs into features ✨"
-}
-```
+<div align="center">
+<img src="./terminal-about-me.png" alt="About Nihal Bagul — macOS Terminal" width="90%" />
+</div>
 
 <br>
 
