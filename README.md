@@ -8,24 +8,24 @@
   <tr>
     <td align="center">
       <a href="https://nihalbagul.dev">
-        <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Work-bb9af3?style=for-the-badge&labelColor=1a1b26" />
+        <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Work-FF006E?style=for-the-badge&labelColor=1a1b26&logoColor=white" height="36" />
       </a>
     </td>
     <td align="center">
       <a href="https://nihalbagul.dev/resume">
-        <img src="https://img.shields.io/badge/📄_RESUME-Download_PDF-73daca?style=for-the-badge&labelColor=1a1b26" />
+        <img src="https://img.shields.io/badge/📄_RESUME-Download_Now-06D6A0?style=for-the-badge&labelColor=1a1b26&logoColor=white" height="36" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/nihal-bagul">
-        <img src="https://img.shields.io/badge/💼_LINKEDIN-Let's_Connect-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
+        <img src="https://img.shields.io/badge/💼_LINKEDIN-Let's_Connect-4CC9F0?style=for-the-badge&labelColor=1a1b26&logoColor=white" height="36" />
       </a>
     </td>
     <td align="center">
       <a href="mailto:nihalbagul@gmail.com">
-        <img src="https://img.shields.io/badge/✉️_EMAIL-Hire_Me-f7768e?style=for-the-badge&labelColor=1a1b26" />
+        <img src="https://img.shields.io/badge/✉️_EMAIL-Hire_Me_Now-FF9E00?style=for-the-badge&labelColor=1a1b26&logoColor=white" height="36" />
       </a>
     </td>
   </tr>
