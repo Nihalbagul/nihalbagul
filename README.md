@@ -90,6 +90,10 @@ const nihalBagul = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalbagul&theme=tokyonight&hide_border=true&background=0D1117" width="65%"/>
 
+<br><br>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/wakatime?username=nihalbagul&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+
 </div>
 
 <br>
@@ -99,6 +103,10 @@ const nihalBagul = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=nihalbagul&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues"/>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/nihalbagul?colors=1a1b26,24283b,a9b1d6,ffffff,7aa2f7,ff9e64,f7768e,73daca" alt="LeetCode Stats" />
 
 <br><br>
 
@@ -134,6 +142,10 @@ const nihalBagul = {
 
 <div align="center">
 
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Programmer Joke" />
+
+<br><br>
+
 🐍 <b>Contribution snake</b>
 
 <picture>
@@ -141,6 +153,14 @@ const nihalBagul = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihalbagul/nihalbagul/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nihalbagul/nihalbagul/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+<br><br>
+
+🏔️ <b>3D Contribution skyline</b>
+
+<br><br>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="80%" />
 
 <br><br>
 
