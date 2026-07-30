@@ -39,9 +39,39 @@
 
 ## 🎯 About me
 
-<div align="center">
-<img src="./terminal-about-me.png" alt="About Nihal Bagul — macOS Terminal" width="90%" />
-</div>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🔴  🟡  🟢          nihal@github ~ — zsh                          │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  nihal@github ~ % curl /api/v1/developer/nihalbagul                │
+│                                                                     │
+│  HTTP/1.1 200 OK                                                    │
+│  Content-Type: application/json                                     │
+│                                                                     │
+│  {                                                                  │
+│    "status":           "available_for_hire 🟢",                    │
+│    "name":             "Nihal Bagul",                               │
+│    "base":             "India 🇮🇳",                                │
+│    "role":             "Full Stack Developer",                      │
+│    "education":        "B.Tech ICT — DA-IICT / DAU 🎓",           │
+│    "experience":       "2+ years shipping production apps",         │
+│    "stack": {                                                       │
+│      "frontend":       ["React ⚛️", "Next.js", "TypeScript"],      │
+│      "backend":        ["Node.js", "Express", "GraphQL"],           │
+│      "mobile":         ["Flutter 📱", "React Native", "Dart"],     │
+│      "cloud":          ["AWS ☁️", "Docker 🐳", "Vercel"],          │
+│      "databases":      ["MongoDB", "PostgreSQL"]                    │
+│    },                                                               │
+│    "currentlyBuilding": "Something awesome 🚀",                    │
+│    "responseTime":     "< 24 hours ⚡",                            │
+│    "openToWork":       true,                                        │
+│    "funFact":          "Turns coffee ☕ into code 💻 ✨"            │
+│  }                                                                  │
+│                                                                     │
+│  nihal@github ~ % █                                                 │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 <br>
 
