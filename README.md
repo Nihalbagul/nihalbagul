@@ -130,7 +130,7 @@ const nihalBagul = {
 🐍 <b>Contribution snake</b>
 
 <picture>
-   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+   <img src="https://raw.githubusercontent.com/nihalbagul/nihalbagul/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 <br><br>
