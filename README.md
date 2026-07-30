@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Nihal Bagul - Software Developer Banner" width="100%" />
+<img src="./9704-vr-illusion.gif" alt="Nihal Bagul Banner" width="100%" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time;From+%F0%9F%87%AE%F0%9F%87%B3+India;Passionate+about+clean+code+%26+innovation)
 
