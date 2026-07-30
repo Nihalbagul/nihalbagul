@@ -228,4 +228,8 @@ const nihalBagul = {
 
 ⭐️ from [nihalbagul](https://github.com/nihalbagul) — made with 💜 and lots of ☕
 
+<br><br>
+
+<img src="./9704-vr-illusion-copy.gif" alt="Nihal Bagul Footer Banner" width="100%" />
+
 </div>
