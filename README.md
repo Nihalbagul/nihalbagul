@@ -12,7 +12,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://nihalbagul.dev/resume">
+      <a href="https://nihalbagul.vercel.app/resume">
         <img src="https://img.shields.io/badge/📄_RESUME-Download_Now-06D6A0?style=for-the-badge&labelColor=1a1b26&logoColor=white" height="36" />
       </a>
     </td>
