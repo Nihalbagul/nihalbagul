@@ -78,7 +78,7 @@
 ## 🛠️ Tech stack
 
 
-![Tech Stack](./assets/tech-stack-original-style.gif)
+![Tech Stack](./assets/tech-stack-fadein.gif)
 
 **Tools**
 
