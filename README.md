@@ -161,6 +161,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/Nihalbagul/nihalbagul/issues/1) in [Nihalbagul/nihalbagul](https://github.com/Nihalbagul/nihalbagul)
 <!--END_SECTION:activity-->
 
 <br>
