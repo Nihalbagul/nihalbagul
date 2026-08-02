@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="[https://nihalbagul.vercel.app/">
+      <a href="[https://nihalbagul.vercel.app/]">
         <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Work-FF006E?style=for-the-badge&labelColor=1a1b26&logoColor=white" height="36" />
       </a>
     </td>
