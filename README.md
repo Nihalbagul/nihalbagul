@@ -186,13 +186,13 @@
 <p>Click any empty square below to make a move!</p>
 <table style="border-collapse: collapse; text-align: center; font-size: 24px; font-weight: bold;">
   <tr>
-    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_0&body=Click+Submit+New+Issue+to+make+your+move+at+(0,0)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; color: #7aa2f7; text-align: center;">⭕</td>
     <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_1&body=Click+Submit+New+Issue+to+make+your+move+at+(0,1)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
     <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_2&body=Click+Submit+New+Issue+to+make+your+move+at+(0,2)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
   </tr>
   <tr>
     <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_0&body=Click+Submit+New+Issue+to+make+your+move+at+(1,0)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_1&body=Click+Submit+New+Issue+to+make+your+move+at+(1,1)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; color: #f7768e; text-align: center;">❌</td>
     <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_2&body=Click+Submit+New+Issue+to+make+your+move+at+(1,2)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
   </tr>
   <tr>
