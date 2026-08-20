@@ -7,12 +7,12 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://nihalbagul.dev">
+      <a href="https://nihalbagul.vercel.app/">
         <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Work-FF006E?style=for-the-badge&labelColor=1a1b26&logoColor=white" height="36" />
       </a>
     </td>
     <td align="center">
-      <a href="https://nihalbagul.dev/resume">
+      <a href="https://nihalbagul.vercel.app/resume">
         <img src="https://img.shields.io/badge/📄_RESUME-Download_Now-06D6A0?style=for-the-badge&labelColor=1a1b26&logoColor=white" height="36" />
       </a>
     </td>
@@ -179,6 +179,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/Nihalbagul/nihalbagul/issues/1) in [Nihalbagul/nihalbagul](https://github.com/Nihalbagul/nihalbagul)
 <!--END_SECTION:activity-->
 
 <br>
@@ -204,13 +205,13 @@
 <p>Click any empty square below to make a move!</p>
 <table style="border-collapse: collapse; text-align: center; font-size: 24px; font-weight: bold;">
   <tr>
-    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_0&body=Click+Submit+New+Issue+to+make+your+move+at+(0,0)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; color: #7aa2f7; text-align: center;">⭕</td>
     <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_1&body=Click+Submit+New+Issue+to+make+your+move+at+(0,1)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
     <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_0_2&body=Click+Submit+New+Issue+to+make+your+move+at+(0,2)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
   </tr>
   <tr>
     <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_0&body=Click+Submit+New+Issue+to+make+your+move+at+(1,0)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
-    <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_1&body=Click+Submit+New+Issue+to+make+your+move+at+(1,1)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+    <td width="60" height="60" style="border: 2px solid #414868; color: #f7768e; text-align: center;">❌</td>
     <td width="60" height="60" style="border: 2px solid #414868; text-align: center;"><a href="https://github.com/nihalbagul/nihalbagul/issues/new?title=ttt_move_1_2&body=Click+Submit+New+Issue+to+make+your+move+at+(1,2)!">&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
   </tr>
   <tr>
