@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF006E,50:7AA2F7,100:73DACA&text=Nihal%20Bagul&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=65&descSize=18" width="100%" alt="Nihal Bagul" />
+
 <img src="./9704-vr-illusion.gif" alt="Nihal Bagul Banner" width="100%" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=4000&pause=800&color=73DACA&center=true&vCenter=true&width=700&lines=Turning+coffee+%E2%98%95+into+scalable+apps;Building+for+web+%F0%9F%8C%90%2C+mobile+%F0%9F%93%B1+%26+cloud+%E2%98%81%EF%B8%8F;2%2B+years+of+experience+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Let%27s+build+something+amazing+%F0%9F%9A%80)
@@ -37,6 +39,8 @@
 
 <br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:7AA2F7,100:73DACA&height=3" alt="" />
+
 ## 🎯 About me
 
 ```
@@ -73,16 +77,34 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/🚀_CURRENTLY_BUILDING-Something_awesome-7AA2F7?style=for-the-badge&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/📚_CURRENTLY_LEARNING-System_Design-F7768E?style=for-the-badge&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/💬_ASK_ME_ABOUT-React_%7C_Node_%7C_Flutter-9ECE6A?style=for-the-badge&labelColor=1a1b26" />
+
+</div>
+
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:7AA2F7,100:73DACA&height=3" alt="" />
 
 ## 🛠️ Tech stack
 
 
 ![Tech Stack](./assets/tech-stack-fadein.gif)
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,graphql,flutter,dart,aws,docker,vercel,mongodb,postgres,git&theme=dark" />
+
+</div>
+
 
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:7AA2F7,100:73DACA&height=3" alt="" />
 
 ## 📁 Featured Projects
 
@@ -133,6 +155,8 @@
 
 <br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:7AA2F7,100:73DACA&height=3" alt="" />
+
 ## 📊 GitHub stats
 
 <div align="center">
@@ -150,9 +174,16 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalbagul&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihalbagul&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nihalbagul&theme=github_dark" />
+
 </div>
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:7AA2F7,100:73DACA&height=3" alt="" />
 
 ## 🏆 Trophies & platforms
 
@@ -176,6 +207,8 @@
 
 <br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:7AA2F7,100:73DACA&height=3" alt="" />
+
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
@@ -183,6 +216,8 @@
 <!--END_SECTION:activity-->
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:7AA2F7,100:73DACA&height=3" alt="" />
 
 ## 🌟 Connect
 
