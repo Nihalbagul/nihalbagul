@@ -90,24 +90,42 @@
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h3>💻 DevConnect</h3>
-        <p>A full-stack social network and portfolio builder for developers with real-time messaging, project sharing, and community threads.</p>
+        <h3>📊 InRiskLab</h3>
+        <!-- VERIFY: guessed from repo name — replace with the real one-liner -->
+        <p>A risk assessment and analytics dashboard for exploring and visualizing risk data.</p>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         </p>
-        <a href="https://github.com/nihalbagul/devconnect"><b>🔗 Code Repo</b></a> | <a href="https://devconnect-demo.vercel.app"><b>⚡ Live Demo</b></a>
+        <a href="https://github.com/nihalbagul/inrisklab"><b>🔗 Code Repo</b></a> | <a href="https://inrisklab.vercel.app"><b>⚡ Live Demo</b></a>
       </td>
       <td width="50%" valign="top">
-        <h3>📱 TaskForge</h3>
-        <p>A collaborative productivity and task management app featuring offline synchronization, board views, and real-time push notifications.</p>
+        <h3>✉️ AI Email Creator</h3>
+        <!-- VERIFY: guessed from repo name — replace with the real one-liner -->
+        <p>An AI-powered tool that drafts and generates email copy in seconds.</p>
         <p>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         </p>
-        <a href="https://github.com/nihalbagul/taskforge"><b>🔗 Code Repo</b></a> | <a href="https://taskforge-demo.app"><b>⚡ Live Demo</b></a>
+        <a href="https://github.com/nihalbagul/aiemailcreator"><b>🔗 Code Repo</b></a> | <a href="https://aiemailcreator.vercel.app"><b>⚡ Live Demo</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📡 MicroFeed</h3>
+        <!-- VERIFY: guessed from repo name — replace with the real one-liner -->
+        <p>A lightweight, self-hosted feed for publishing short-form updates.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </p>
+        <a href="https://github.com/nihalbagul/MicroFeed"><b>🔗 Code Repo</b></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🧘 Wellness Tracker</h3>
+        <!-- VERIFY: guessed from repo name — replace with the real one-liner -->
+        <p>An app for logging daily habits and wellness metrics over time.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </p>
+        <a href="https://github.com/nihalbagul/wellness-tracker"><b>🔗 Code Repo</b></a>
       </td>
     </tr>
   </table>

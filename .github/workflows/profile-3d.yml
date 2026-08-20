@@ -19,7 +19,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          
+
+      - name: Remove unused 3D-contrib variants
+        run: |
+          cd profile-3d-contrib
+          find . -type f ! -name 'profile-night-rainbow.svg' -delete
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
